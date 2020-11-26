@@ -1,0 +1,38 @@
+{:message "Not a word"
+ :name "non-words"
+ :kind "recommender"
+ :explanation "Identifies sequences of letters masquerading as words, and suggests an actual word."
+ :specimens []
+ :recommendations
+ [{:avoid "doubtlessly", :prefer "doubtless"}
+  {:avoid "analyzation", :prefer "analysis"}
+  {:avoid "annoyment", :prefer "annoyance"}
+  {:avoid "confirmant", :prefer "confirmand"}
+  {:avoid "confirmants", :prefer "confirmands"}
+  {:avoid "conversate", :prefer "converse"}
+  {:avoid "crained", :prefer "cranded"}
+  {:avoid "dispersement", :prefer "dispersal"}
+  {:avoid "discomforture", :prefer "discomfort"}
+  {:avoid "affrontery", :prefer "effrontery"}
+  {:avoid "forebearance", :prefer "forbearance"}
+  {:avoid "improprietous", :prefer "improper"}
+  {:avoid "inclimate", :prefer "inclement"}
+  {:avoid "relative inexpense", :prefer "affordability"}
+  {:avoid "inimicable", :prefer "inimical"}
+  {:avoid "irregardless", :prefer "regardless"}
+  {:avoid "minimalize", :prefer "minimize"}
+  {:avoid "minimalized", :prefer "minimized"}
+  {:avoid "minimalizes", :prefer "minimizes"}
+  {:avoid "minimalizing", :prefer "minimizing"}
+  {:avoid "optimalize", :prefer "optimize"}
+  {:avoid "paralyzation", :prefer "paralysis"}
+  {:avoid "pettifogger", :prefer "pettifog"}
+  {:avoid "proprietous", :prefer "proper"}
+  {:avoid "squelch", :prefer "quell"}
+  {:avoid "seldomly", :prefer "seldom"}
+  {:avoid "thusly", :prefer "thus"}
+  {:avoid "uncategorically", :prefer "categorically"}
+  {:avoid "undoubtably", :prefer "undoubtedly"}
+  {:avoid "unequivocable", :prefer "unequivocal"}
+  {:avoid "unmercilessly", :prefer "mercilessly"}
+  {:avoid "unrelentlessly", :prefer "relentlessly"}]}

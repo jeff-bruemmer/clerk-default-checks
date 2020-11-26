@@ -1,0 +1,6 @@
+{:message "Omit this phrase"
+ :recommendations []
+ :name "hedging"
+ :kind "existence"
+ :explanation "Say, or say not. There is no hedging."
+ :specimens ["I think", "I would argue" ", so to speak" "to a certain degree"]}

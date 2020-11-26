@@ -1,0 +1,6 @@
+{:message "Broken link"
+ :recommendations []
+ :name "links"
+ :kind "links"
+ :explanation "Does the link return a status code in the 200-299 range? See https://developer.mozilla.org/en-US/docs/Web/HTTP/Status. Only vets hyperlinks in Markdown and Org files."
+ :specimens []}

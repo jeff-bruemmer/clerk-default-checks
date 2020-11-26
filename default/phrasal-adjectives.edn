@@ -1,0 +1,126 @@
+{:message "Hyphenate phrasal adjective"
+ :name "Phrasal adjectives"
+ :kind "recommender"
+ :explanation
+ "No hyphen is necessary in phrasal adjectives with an adverb ending in -ly, unless the -ly adverb is part of a longer phrase"
+ :specimens []
+ :recommendations
+ [{:avoid "across the board discounts",
+   :prefer "across-the-board discounts"}
+  {:avoid "acute care treatment", :prefer "acute-care treatment"}
+  {:avoid "agreed upon answer", :prefer "agreed-upon answer"}
+  {:avoid "big ticket item", :prefer "big-ticket item"}
+  {:avoid "class action lawyer", :prefer "class-action lawyer"}
+  {:avoid "criminal law professor", :prefer "criminal-law professor"}
+  {:avoid "cut and dried issue", :prefer "cut-and-dried issue"}
+  {:avoid "downward sloping line", :prefer "downward-sloping line"}
+  {:avoid "English language learners",
+   :prefer "English-language learners"}
+  {:avoid "English speaking people", :prefer "English-speaking people"}
+  {:avoid "even numbered", :prefer "even-numbered"}
+  {:avoid "face to face meeting", :prefer "face-to-face meeting"}
+  {:avoid "fixed rate mortgage", :prefer "fixed-rate mortgage"}
+  {:avoid "for profit firm", :prefer "for-profit firm"}
+  {:avoid "foreign sounding name", :prefer "foreign-sounding name"}
+  {:avoid "government owned business",
+   :prefer "government-owned business"}
+  {:avoid "hard and fast issue", :prefer "hard-and-fast issue"}
+  {:avoid "head on collision", :prefer "head-on collision"}
+  {:avoid "head to head battle", :prefer "head-to-head battle"}
+  {:avoid "head to head competition",
+   :prefer "head-to-head competition"}
+  {:avoid "heath care coverage", :prefer "health-care coverage"}
+  {:avoid "high school student", :prefer "high-school student"}
+  {:avoid "hit and run statute", :prefer "hit-and-run statute"}
+  {:avoid "HIV negative person", :prefer "HIV-negative person"}
+  {:avoid "HIV positive person", :prefer "HIV-positive person"}
+  {:avoid "information technology personnel",
+   :prefer "information-technology personnel"}
+  {:avoid "intellectual property rights",
+   :prefer "intellectual-property rights"}
+  {:avoid "interest group pressures",
+   :prefer "interest-group pressures"}
+  {:avoid "joint stock company", :prefer "joint-stock company"}
+  {:avoid "kidney dialysis machine", :prefer "kidney-dialysis machine"}
+  {:avoid "long run costs", :prefer "long-run costs"}
+  {:avoid "long term care", :prefer "long-term care"}
+  {:avoid "low income housing", :prefer "low-income housing"}
+  {:avoid "mom and pop retail outlet",
+   :prefer "mom-and-pop retail outlet"}
+  {:avoid "mom and pop shop", :prefer "mom-and-pop shop"}
+  {:avoid "national security briefing",
+   :prefer "national-security briefing"}
+  {:avoid "natural gas pipeline", :prefer "natural-gas pipeline"}
+  {:avoid "no fault accident", :prefer "no-fault accident"}
+  {:avoid "no fault divorce", :prefer "no-fault divorce"}
+  {:avoid "no fault insurance", :prefer "no-fault insurance"}
+  {:avoid "odd numbered", :prefer "odd-numbered"}
+  {:avoid "office supply store", :prefer "office-supply store"}
+  {:avoid "one way flight", :prefer "one-way flight"}
+  {:avoid "one way window", :prefer "one-way window"}
+  {:avoid "open and shut case", :prefer "open-and-shut case"}
+  {:avoid "open and shut issue", :prefer "open-and-shut issue"}
+  {:avoid "open source community", :prefer "open-source community"}
+  {:avoid "optical scan ballot", :prefer "optical-scan ballot"}
+  {:avoid "pension fund investments",
+   :prefer "pension-fund investments"}
+  {:avoid "private sector employment",
+   :prefer "private-sector employment"}
+  {:avoid "profit seeking efforts", :prefer "profit-seeking efforts"}
+  {:avoid "punch card ballot", :prefer "punch-card ballot"}
+  {:avoid "quality adjusted price", :prefer "quality-adjusted price"}
+  {:avoid "razor sharp intellect", :prefer "razor-sharp intellect"}
+  {:avoid "razor sharp mind", :prefer "razor-sharp mind"}
+  {:avoid "razor sharp mind", :prefer "razor-sharp mind"}
+  {:avoid "razor sharp wit", :prefer "razor-sharp wit"}
+  {:avoid "larger than life personality",
+   :prefer "larger-than-life personality"}
+  {:avoid "real estate prices", :prefer "real-estate prices"}
+  {:avoid "real estate tycoon", :prefer "real-estate tycoon"}
+  {:avoid "right wing militia", :prefer "right-wing militia"}
+  {:avoid "round trip flight", :prefer "round-trip flight"}
+  {:avoid "search and rescue operation",
+   :prefer "search-and-rescue operation"}
+  {:avoid "second largest army", :prefer "second-largest army"}
+  {:avoid "shell shocked mothers", :prefer "shell-shocked mothers"}
+  {:avoid "shell shocked soldiers", :prefer "shell-shocked soldiers"}
+  {:avoid "small business loan", :prefer "small-business loan"}
+  {:avoid "small business owner", :prefer "small-business owner"}
+  {:avoid "small state senator", :prefer "small-state senator"}
+  {:avoid "small animal veterinarian",
+   :prefer "small-animal veterinarian"}
+  {:avoid "state sponsored terrorism",
+   :prefer "state-sponsored terrorism"}
+  {:avoid "state sponsored violence",
+   :prefer "state-sponsored violence"}
+  {:avoid "thumbs up sign", :prefer "thumbs-up sign"}
+  {:avoid "time honored tradition", :prefer "time-honored tradition"}
+  {:avoid "U.S. led campaign", :prefer "U.S.-led campaign"}
+  {:avoid "upward sloping line", :prefer "upward-sloping line"}
+  {:avoid "venture backed company", :prefer "venture-backed company"}
+  {:avoid "well publicized event", :prefer "well-publicized event"}
+  {:avoid "wire transfer service", :prefer "wire-transfer service"}
+  {:avoid "yes or no question", :prefer "yes-or-no question"}
+  {:avoid "zero sum game", :prefer "zero-sum game"}
+  {:avoid "stained glass ceiling", :prefer "stained-glass ceiling"}
+  {:avoid "stained glass window", :prefer "stained-glass window"}
+  {:avoid "free range chicken", :prefer "free-range chicken"}
+  {:avoid "free range poultry", :prefer "free-range poultry"}
+  {:avoid "non profit making organization",
+   :prefer "non-profit-making organization"}
+  {:avoid "non-profit making organization",
+   :prefer "non-profit-making organization"}
+  {:avoid "non profit-making organization",
+   :prefer "non-profit-making organization"}
+  {:avoid "three part harmony", :prefer "three-part harmony"}
+  {:avoid "four part harmony", :prefer "four-part harmony"}
+  {:avoid "six part harmony", :prefer "six-part harmony"}
+  {:avoid "eight part harmony", :prefer "eight-part harmony"}
+  {:avoid "first quarter loss", :prefer "first-quarter loss"}
+  {:avoid "second quarter loss", :prefer "second-quarter loss"}
+  {:avoid "third quarter loss", :prefer "third-quarter loss"}
+  {:avoid "fourth quarter loss", :prefer "fourth-quarter loss"}
+  {:avoid "first quarter gain", :prefer "first-quarter gain"}
+  {:avoid "second quarter gain", :prefer "second-quarter gain"}
+  {:avoid "third quarter gain", :prefer "third-quarter gain"}
+  {:avoid "fourth quarter gain", :prefer "fourth-quarter gain"}]}

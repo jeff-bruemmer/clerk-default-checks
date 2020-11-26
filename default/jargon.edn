@@ -1,0 +1,11 @@
+{:message "Jargon"
+ :recommendations []
+ :name "jargon"
+ :kind "existence"
+ :explanation "Phrases infected with bureaucracy."
+ :specimens ["in the affirmative"
+             "in the negative"
+             "agendize"
+             "per your order"
+             "per your request"
+             "disincentivize"]}

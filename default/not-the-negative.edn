@@ -1,0 +1,26 @@
+{:message "Not the negative"
+ :name "Not the negative."
+ :kind "recommender"
+ :explanation "Prefer the word to the negation of the word's opposite. For example, prefer _impossible_ to _not possible_."
+ :specimens []
+ :recommendations
+ [{:avoid "not many", :prefer "few"}
+  {:avoid "not the same", :prefer "different"}
+  {:avoid "not different", :prefer "similar"}
+  {:avoid "does not have", :prefer "lacks"}
+  {:avoid "doesn't have", :prefer "lacks"}
+  {:avoid "did not stay", :prefer "left"}
+  {:avoid "didn't stay", :prefer "left"}
+  {:avoid "not old enough", :prefer "too young"}
+  {:avoid "did not remember", :prefer "forgot"}
+  {:avoid "didn't remember", :prefer "forgot"}
+  {:avoid "didn't consider", :prefer "ignored"}
+  {:avoid "did not consider", :prefer "ignored"}
+  {:avoid "didn't allow", :prefer "prevented"}
+  {:avoid "did not allow", :prefer "prevented"}
+  {:avoid "did not accept", :prefer "rejected"}
+  {:avoid "didn't accept", :prefer "rejected"}
+  {:avoid "not clearly", :prefer "unclearly"}
+  {:avoid "not possible", :prefer "impossible"}
+  {:avoid "not able", :prefer "unable"}
+  {:avoid "not certain", :prefer "uncertain"}]}

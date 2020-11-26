@@ -1,0 +1,14 @@
+{:message "Skunked term: consider rephrasing"
+ :recommendations []
+ :name "skunked-terms"
+ :kind "existence"
+ :explanation "Words with controversial correct usage that are best avoided, as you'll likely nettle readers no matter how you employ the term."
+ :specimens
+ ["bona fides"
+  "deceptively"
+  "decimate"
+  "effete"
+  "fulsome"
+  "hopefully"
+  "impassionate"
+  "thankfully,"]}

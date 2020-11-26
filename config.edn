@@ -1,0 +1,22 @@
+{:checks
+ [{:name "default",
+   :directory "default",
+   :files
+   ["cliches"
+    "redundancies"
+    "skunked-terms"
+    "links"
+    "sexism"
+    "non-words"
+    "hedging"
+    "archaisms"
+    "jargon"
+    "corporate-speak"
+    "annotations"
+    "needless-variants"
+    "repetition"
+    "oxymorons"
+    "phrasal-adjectives"
+    "not-the-negative"
+    "pompous-diction"
+    "compression"]}]}
