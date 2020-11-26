@@ -1,0 +1,5 @@
+{:name "Example check"
+ :message "Example message"
+ :kind "existence"
+ :explanation "Example of creating a custom check."
+ :specimens []}
