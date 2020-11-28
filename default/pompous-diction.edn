@@ -9,16 +9,12 @@
   {:avoid "endeavor", :prefer "try"}
   {:avoid "utilization", :prefer "use"}
   {:avoid "termination", :prefer "end"}
-  {:avoid "initiate", :prefer "begin"}
   {:avoid "is desirous of", :prefer "wants"}
   {:avoid "is cognizant of", :prefer "is aware of"}
-  {:avoid "ascertain", :prefer "find out"}
   {:avoid "facilitate", :prefer "help"}
   {:avoid "deem", :prefer "think"}
-  {:avoid "envisage", :prefer "think regard see"}
+  {:avoid "envisage", :prefer "think, regard, see"}
   {:avoid "advert to", :prefer "mention"}
   {:avoid "apprise", :prefer "inform"}
   {:avoid "eventuate", :prefer "happen"}
-  {:avoid "transpire", :prefer "happen"}
-  {:avoid "render", :prefer "make give"}
-  {:avoid "transmit", :prefer "send"}]}
+  {:avoid "transpire", :prefer "happen"}]}

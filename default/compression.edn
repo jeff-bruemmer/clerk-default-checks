@@ -3,17 +3,17 @@
  :kind "recommender"
  :explanation "Compressing common phrases: from Style: Toward Clarity and Grace by Joseph M. Williams."
  :recommendations
- [{:avoid "the reason for" :prefer "because since why"}
-  {:avoid "for the reason that" :prefer "because since why"}
-  {:avoid "due to the fact that" :prefer "because since why"}
-  {:avoid "owing to the fact that" :prefer "because since why"}
-  {:avoid "in light of the fact that" :prefer "because since why"}
-  {:avoid "considering the fact that" :prefer "because since why"}
-  {:avoid "on the grounds that" :prefer "because since why"}
-  {:avoid "this is why" :prefer "because since why"}
-  {:avoid "despite the fact that" :prefer "although even though"}
-  {:avoid "regardless of the fact that" :prefer "although even though"}
-  {:avoid "notwithstanding the fact that" :prefer "although even though"}
+ [{:avoid "the reason for" :prefer "because, since, why"}
+  {:avoid "for the reason that" :prefer "because, since, why"}
+  {:avoid "due to the fact that" :prefer "because, since, why"}
+  {:avoid "owing to the fact that" :prefer "because, since, why"}
+  {:avoid "in light of the fact that" :prefer "because, since, why"}
+  {:avoid "considering the fact that" :prefer "because, since, why"}
+  {:avoid "on the grounds that" :prefer "because, since, why"}
+  {:avoid "this is why" :prefer "because, since, why"}
+  {:avoid "despite the fact that" :prefer "although, even though"}
+  {:avoid "regardless of the fact that" :prefer "although, even though"}
+  {:avoid "notwithstanding the fact that" :prefer "although, even though"}
   {:avoid "in the event that" :prefer "if"}
   {:avoid "if it should happen that" :prefer "if"}
   {:avoid "under circumstances in which" :prefer "if"}
@@ -24,25 +24,25 @@
   {:avoid "in reference to" :prefer "about"}
   {:avoid "with regard to" :prefer "about"}
   {:avoid "concerning the matter of" :prefer "about"}
-  {:avoid "it is crucial that" :prefer "must should"}
-  {:avoid "it is necessary that" :prefer "must should"}
-  {:avoid "it is necessary that" :prefer "must should"}
-  {:avoid "there is a need for" :prefer "must should"}
-  {:avoid "it is important that" :prefer "must should"}
-  {:avoid "it is incumbent upon" :prefer "must should"}
-  {:avoid "cannot be avoided" :prefer "must should"}
+  {:avoid "it is crucial that" :prefer "must, should"}
+  {:avoid "it is necessary that" :prefer "must, should"}
+  {:avoid "it is necessary that" :prefer "must, should"}
+  {:avoid "there is a need for" :prefer "must, should"}
+  {:avoid "it is important that" :prefer "must, should"}
+  {:avoid "it is incumbent upon" :prefer "must, should"}
+  {:avoid "cannot be avoided" :prefer "must, should"}
   {:avoid "is able to" :prefer "can"}
   {:avoid "is in a position to" :prefer "can"}
   {:avoid "has the opportunity to" :prefer "can"}
   {:avoid "has the capacity for" :prefer "can"}
   {:avoid "has the ability to" :prefer "can"}
-  {:avoid "it is possible that" :prefer "may might can could"}
-  {:avoid "there is a chance that" :prefer "may might can could"}
-  {:avoid "it could happen that" :prefer "may might can could"}
-  {:avoid "the possiblity exists for" :prefer "may might can could"}
-  {:avoid "prior to" :prefer "before after as"}
-  {:avoid "in anticipation of" :prefer "before after as"}
-  {:avoid "subsequent to" :prefer "before after as"}
-  {:avoid "following on" :prefer "before after as"}
-  {:avoid "at the same time as" :prefer "before after as"}
-  {:avoid "simultaneously with" :prefer "before after as"}]}
+  {:avoid "it is possible that" :prefer "may, might, can, could"}
+  {:avoid "there is a chance that" :prefer "may, might, can, could"}
+  {:avoid "it could happen that" :prefer "may, might, can, could"}
+  {:avoid "the possiblity exists for" :prefer "may, might, can, could"}
+  {:avoid "prior to" :prefer "before, after, as"}
+  {:avoid "in anticipation of" :prefer "before, after, as"}
+  {:avoid "subsequent to" :prefer "before, after, as"}
+  {:avoid "following on" :prefer "before, after, as"}
+  {:avoid "at the same time as" :prefer "before, after, as"}
+  {:avoid "simultaneously with" :prefer "before, after, as"}]}
