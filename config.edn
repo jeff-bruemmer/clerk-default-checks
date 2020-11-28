@@ -26,4 +26,5 @@
    ;; Place custom checks in :files vector.
   {:name "Custom checks"
    :directory "custom"
-   :files ["example"]}]}
+   :files [;; "example"
+           ]}]}

@@ -1,4 +1,4 @@
-{:message "Hyphenate phrasal adjective"
+{:message "Hyphenate:"
  :name "Phrasal adjectives"
  :kind "recommender"
  :explanation

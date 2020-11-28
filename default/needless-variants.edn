@@ -1,4 +1,4 @@
-{:message "Needless variant"
+{:message ""
  :name "needless-variant"
  :kind "recommender"
  :explanation "Prefer the more common term."
