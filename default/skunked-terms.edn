@@ -2,7 +2,7 @@
  :recommendations []
  :name "skunked-terms"
  :kind "existence"
- :explanation "Words with controversial correct usage that are best avoided, as you'll likely nettle readers no matter how you employ the term."
+ :explanation "Words with controversial correct usage that are best avoided."
  :specimens
  ["bona fides"
   "deceptively"

@@ -2,7 +2,7 @@
  :name "Phrasal adjectives"
  :kind "recommender"
  :explanation
- "No hyphen is necessary in phrasal adjectives with an adverb ending in -ly, unless the -ly adverb is part of a longer phrase"
+ "No hyphen is necessary in phrasal adjectives with an adverb ending in -ly, unless the adverb is part of a longer phrase"
  :specimens []
  :recommendations
  [{:avoid "across the board discounts",

@@ -2,7 +2,7 @@
  :recommendations []
  :name "sexism"
  :kind "existence"
- :explanation "Words and phrases that are sexist, or that try not to be sexist and fail (like _mail person_ instead of _mail carrier_)."
+ :explanation "Sexist or ridiculous terms (like _mail person_ instead of _mail carrier_)."
  :specimens
  ["anchorman"
   "anchorwoman"

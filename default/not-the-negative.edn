@@ -1,7 +1,7 @@
 {:message "Not the negative"
  :name "Not the negative."
  :kind "recommender"
- :explanation "Prefer the word to the negation of the word's opposite. For example, prefer _impossible_ to _not possible_."
+ :explanation "Prefer the word to the negation of the word's opposite."
  :specimens []
  :recommendations
  [{:avoid "not many", :prefer "few"}

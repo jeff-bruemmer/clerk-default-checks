@@ -2,5 +2,5 @@
  :recommendations []
  :name "annotations"
  :kind "case"
- :explanation "Typical markers used to signal problem sites in the text. These annotations should not survive editing."
+ :explanation "Typical markers used to signal problem sites in the text."
  :specimens ["FIXME" "FIX ME" "TODO" "ERASE THIS" "FIX THIS"]}
