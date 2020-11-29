@@ -1,5 +1,4 @@
 {:message "Modernize"
- :recommendations []
  :name "archaisms"
  :kind "existence"
  :explanation "Outmoded word or phrase."

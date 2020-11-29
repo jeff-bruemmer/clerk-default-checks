@@ -1,5 +1,4 @@
 {:message "Avoid corporate-speak"
- :recommendations []
  :name "corporate-speak"
  :kind "existence"
  :explanation "Words and phrases that make you sound like an automaton."

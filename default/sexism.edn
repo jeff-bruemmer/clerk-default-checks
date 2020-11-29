@@ -1,5 +1,4 @@
 {:message "Sexist or ridiculous term"
- :recommendations []
  :name "sexism"
  :kind "existence"
  :explanation "Sexist or ridiculous terms (like _mail person_ instead of _mail carrier_)."

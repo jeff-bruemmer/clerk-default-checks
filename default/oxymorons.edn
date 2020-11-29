@@ -1,5 +1,4 @@
 {:message "Oxymoron"
- :recommendations []
  :name "oxymorons"
  :kind "existence"
  :explanation "Avoid contradictory terms (that aren't funny)."

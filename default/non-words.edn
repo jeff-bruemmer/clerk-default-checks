@@ -1,8 +1,6 @@
-{:message "Not a word"
- :name "non-words"
+{:name "non-words"
  :kind "recommender"
  :explanation "Identifies sequences of letters masquerading as words, and suggests an actual word."
- :specimens []
  :recommendations
  [{:avoid "doubtlessly", :prefer "doubtless"}
   {:avoid "analyzation", :prefer "analysis"}

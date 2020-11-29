@@ -1,5 +1,4 @@
 {:message "Draft litter"
- :recommendations []
  :name "annotations"
  :kind "case"
  :explanation "Typical markers used to signal problem sites in the text."

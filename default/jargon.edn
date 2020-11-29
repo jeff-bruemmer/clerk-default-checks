@@ -1,5 +1,4 @@
 {:message "Jargon"
- :recommendations []
  :name "jargon"
  :kind "existence"
  :explanation "Phrases infected with bureaucracy."

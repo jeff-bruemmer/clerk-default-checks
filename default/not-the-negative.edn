@@ -1,8 +1,6 @@
-{:message "Not the negative"
- :name "Not the negative."
+{:name "Not the negative."
  :kind "recommender"
  :explanation "Prefer the word to the negation of the word's opposite."
- :specimens []
  :recommendations
  [{:avoid "not many", :prefer "few"}
   {:avoid "not the same", :prefer "different"}

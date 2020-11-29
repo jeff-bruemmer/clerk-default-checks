@@ -3,7 +3,6 @@
  :kind "recommender",
  :explanation
  "Pompous diction: use simpler words. From Style: Toward Clarity and Grace by Joseph M. Williams.",
- :specimens [],
  :recommendations
  [{:avoid "contingent upon", :prefer "dependent on"}
   {:avoid "endeavor", :prefer "try"}

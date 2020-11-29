@@ -1,6 +1,5 @@
 {:message "A tired phrase"
  :name "clichés"
- :recommendations []
  :kind "existence"
  :explanation "An overused phrase or opinion that betrays a lack of original thought."
  :specimens

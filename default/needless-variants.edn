@@ -1,8 +1,6 @@
-{:message ""
- :name "needless-variant"
+{:name "needless-variant"
  :kind "recommender"
  :explanation "Prefer the more common term."
- :specimens []
  :recommendations
  [{:avoid "abolishment", :prefer "abolition"}
   {:avoid "accessary", :prefer "accessory"}

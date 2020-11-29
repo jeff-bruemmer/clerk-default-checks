@@ -1,6 +1,4 @@
 {:message "Consecutive word repetition"
  :name "repetition"
  :kind "repetition"
- :explanation "Catches consecutive repetition of words, like _the the_."
- :recommendations []
- :specimens []}
+ :explanation "Catches consecutive repetition of words, like _the the_."}

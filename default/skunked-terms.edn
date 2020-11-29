@@ -1,5 +1,4 @@
 {:message "Skunked term: consider rephrasing"
- :recommendations []
  :name "skunked-terms"
  :kind "existence"
  :explanation "Words with controversial correct usage that are best avoided."

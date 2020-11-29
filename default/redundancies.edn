@@ -1,4 +1,4 @@
-{:message "Redundancy"
+{:message "Pleonastic phrase"
  :name "redundancies"
  :kind "existence"
  :explanation "Avoid phrases that say the same thing more than once."
@@ -39,6 +39,7 @@
   "most especially"
   "actual fact"
   "true facts"
+  "true fact"
   "future forecast"
   "founding forefathers"
   "free and gratis"

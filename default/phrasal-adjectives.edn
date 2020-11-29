@@ -1,9 +1,7 @@
-{:message "Hyphenate:"
- :name "Phrasal adjectives"
+{:name "Phrasal adjectives"
  :kind "recommender"
  :explanation
  "Hyphenate phrasal adjectives."
- :specimens []
  :recommendations
  [{:avoid "across the board discounts",
    :prefer "across-the-board discounts"}
