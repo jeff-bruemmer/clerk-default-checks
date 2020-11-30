@@ -1,8 +1,12 @@
 # Clerk checks
 
-Checks for Clerk to perform on a text, Markdown, TEX, or Org file.
+Checks for [Clerk](https://github.com/jeff-bruemmer/clerk) to perform on a text, Markdown, TEX, or Org file.
 
 ## Checks
+
+[Default checks](#default-checks) | [Customize checks](#customize-checks) | [Acknowledgments](#acknowledgments)
+
+### Default checks
 
 | **Check**              | **Description**                                                                                                  |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -24,3 +28,12 @@ Checks for Clerk to perform on a text, Markdown, TEX, or Org file.
 | **Repetition**         | Catches consecutive repetition of words, like _the the_.                                                         |
 | **Sexism**             | Sexist or ridiculous terms (like _mail person_ instead of _mail carrier_).                                       |
 | **Skunked-terms**      | Words with controversial correct usage that are best avoided.                                                    |
+
+### Customize checks
+
+See [Clerk's README](https://github.com/jeff-bruemmer/clerk) for how to customize these checks, or create your own checks. This repository contains an example Existence check `custom/example.edn` to get you started.
+
+### Acknowledgments
+
+Some elements of these checks are borrowed from the excellent [Proselint](https://github.com/amperser/proselint).
+
