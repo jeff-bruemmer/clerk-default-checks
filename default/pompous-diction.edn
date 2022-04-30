@@ -7,7 +7,7 @@
  [{:avoid "contingent upon", :prefer "dependent on"}
   {:avoid "endeavor", :prefer "try"}
   {:avoid "utilization", :prefer "use"}
-  {:avoid "termination", :prefer "end"}
+;;  {:avoid "termination", :prefer "end"}
   {:avoid "is desirous of", :prefer "wants"}
   {:avoid "is cognizant of", :prefer "is aware of"}
   {:avoid "facilitate", :prefer "help"}
