@@ -1,4 +1,0 @@
-{:message "Broken link"
- :name "links"
- :kind "links"
- :explanation "The Markdown/Org link should return a status code in the 200-299."}
