@@ -19,7 +19,6 @@ Checks for [Clerk](https://github.com/jeff-bruemmer/clerk) to perform on a text,
 | **Corporate-speak**    | Words and phrases that make you sound like an automaton.                                                         |
 | **Hedging**            | Say, or say not. There is no hedging.                                                                            |
 | **Jargon**             | Phrases infected with bureaucracy.                                                                               |
-| **Links**              | The Markdown/Org link should return a status code in the 200-299.                                                |
 | **Needless-variant**   | Prefer the more common term.                                                                                     |
 | **Non-words**          | Identifies sequences of letters masquerading as words, and suggests an actual word.                              |
 | **Oxymorons**          | Avoid contradictory terms (that aren't funny).                                                                   |
