@@ -1,5 +1,5 @@
 ;; Comment out a check to disable it.
-;; E.g., ;; "redundancies"
+;; E.g., ;; "regex"
 ;; You can also use semi-colons to disable specimens within a check.
 {:checks
  [{:name "default",
@@ -21,7 +21,9 @@
     "phrasal-adjectives"
     "not-the-negative"
     "pompous-diction"
-    "compression"]}
+    "compression"
+   ;; "regex"
+    ]}
    ;; Place custom checks in :files vector.
   {:name "Custom checks"
    :directory "custom"
