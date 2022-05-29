@@ -1,0 +1,5 @@
+;; Put specimens for Clerk to ignore between the braces.
+;; Use semicolons to comment out lines.
+#{;; "example"
+  ;; "another example"
+  }
