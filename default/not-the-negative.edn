@@ -6,7 +6,7 @@
   {:avoid "not the same", :prefer "different"}
   {:avoid "not different", :prefer "similar"}
   {:avoid "does not have", :prefer "lacks"}
-  {:avoid "doesn't have", :prefer "lacks"}
+  ;; {:avoid "doesn't have", :prefer "lacks"}
   {:avoid "did not stay", :prefer "left"}
   {:avoid "didn't stay", :prefer "left"}
   {:avoid "not old enough", :prefer "too young"}
