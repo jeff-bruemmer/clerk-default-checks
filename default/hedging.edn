@@ -2,4 +2,16 @@
  :name "hedging"
  :kind "existence"
  :explanation "Say, or say not. There is no hedging."
- :specimens ["I think", "I would argue" ", so to speak" "to a certain degree"]}
+ :specimens ["I think"
+             "I would argue"
+             "so to speak"
+             "to a certain degree"
+             "it seems that"
+             "it appears that"
+             "it could be argued that"
+             "arguably"
+             "perhaps"
+             "possibly"
+             "to some extent"
+             "somewhat"
+             "in a way"]}

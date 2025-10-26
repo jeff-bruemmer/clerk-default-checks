@@ -4,7 +4,6 @@
  :recommendations
  [{:avoid "abolishment", :prefer "abolition"}
   {:avoid "accessary", :prefer "accessory"}
-  {:avoid "accessary", :prefer "accessory"}
   {:avoid "accreditate", :prefer "accredit"}
   {:avoid "accruement", :prefer "accrual"}
   {:avoid "cumulate", :prefer "accumulate"}
@@ -150,7 +149,6 @@
   {:avoid "exigeant", :prefer "exigent"}
   {:avoid "exotism", :prefer "exoticism"}
   {:avoid "expedience", :prefer "expediency"}
-  {:avoid "expediential", :prefer "expedient"}
   {:avoid "expediential", :prefer "expedient"}
   {:avoid "extensible", :prefer "extendable"}
   {:avoid "eying", :prefer "eyeing"}
@@ -348,7 +346,6 @@
   {:avoid "thenceforward", :prefer "thenceforth"}
   {:avoid "transiency", :prefer "transience"}
   {:avoid "transposal", :prefer "transposition"}
-  {:avoid "transposal", :prefer "transposition"}
   {:avoid "inalterable", :prefer "unalterable"}
   {:avoid "incommunicative", :prefer "uncommunicative"}
   {:avoid "incontrollable", :prefer "uncontrollable"}
@@ -365,4 +362,13 @@
   {:avoid "volitive", :prefer "volitional"}
   {:avoid "wolvish", :prefer "wolfish"}
   {:avoid "wolverene", :prefer "wolverine"}
-  {:avoid "Zoroastrism", :prefer "Zoroastrianism"}]}
+  {:avoid "Zoroastrism", :prefer "Zoroastrianism"}
+  {:avoid "utilize", :prefer "use"}
+  {:avoid "finalize", :prefer "complete"}
+  {:avoid "impactful", :prefer "effective"}
+  {:avoid "incentivize", :prefer "encourage"}
+  {:avoid "operationalize", :prefer "implement"}
+  {:avoid "prioritize", :prefer "rank"}
+  {:avoid "liaise", :prefer "cooperate"}
+  {:avoid "synergize", :prefer "collaborate"}
+  {:avoid "leverage", :prefer "use"}]}

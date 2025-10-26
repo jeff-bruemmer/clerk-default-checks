@@ -22,6 +22,7 @@
     "not-the-negative"
     "pompous-diction"
     "compression"
+    "overused-adverbs"
    ;; "regex"
     ]}
    ;; Place custom checks in :files vector.

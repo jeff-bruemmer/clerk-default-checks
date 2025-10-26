@@ -1,0 +1,16 @@
+{:message "Overused adverb"
+ :name "overused-adverbs"
+ :kind "existence"
+ :explanation "Use of adverbs that are weak or redundant. Consider using a stronger verb instead."
+ :specimens
+ ["very"
+  "really"
+  "actually"
+  "absolutely"
+  "completely"
+  "definitely"
+  "extremely"
+  "highly"
+  "quite"
+  "totally"
+  "utterly"]}
