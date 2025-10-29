@@ -1,6 +1,6 @@
-# Clerk checks
+# Proserunner checks
 
-Checks for [Clerk](https://github.com/jeff-bruemmer/clerk) to perform on a text, Markdown, TEX, or Org file.
+Checks for [Proserunner](https://github.com/jeff-bruemmer/proserunner) to perform on a text, Markdown, TEX, or Org file.
 
 ## Checks
 
@@ -30,7 +30,7 @@ Checks for [Clerk](https://github.com/jeff-bruemmer/clerk) to perform on a text,
 
 ### Customize checks
 
-See [Clerk's README](https://github.com/jeff-bruemmer/clerk) for how to customize these checks, or create your own checks. This repository contains an example Existence check `custom/example.edn` to get you started.
+See [Proserunner's README](https://github.com/jeff-bruemmer/proserunner) for how to customize these checks, or create your own checks. This repository contains an example Existence check `custom/example.edn` to get you started.
 
 ### Acknowledgments
 
