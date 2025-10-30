@@ -1,4 +1,4 @@
-# Proserunner checks
+# P R O S E R U N N E R default checks
 
 Checks for [Proserunner](https://github.com/jeff-bruemmer/proserunner) to perform on a text, Markdown, TEX, or Org file.
 
