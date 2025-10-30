@@ -10,7 +10,7 @@ Checks for [Proserunner](https://github.com/jeff-bruemmer/proserunner) to perfor
 
 | **Check**              | **Description**                                                                                                  |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Not the negative.**  | Prefer the word to the negation of the word's opposite.                                                          |
+| **Not the negative**  | Prefer the word to the negation of the word's opposite.                                                          |
 | **Phrasal adjectives** | Avoid hyphenating phrasal adjectives with an adverb ending in -ly, unless the adverb is part of a longer phrase. |
 | **Annotations**        | Typical markers used to signal problem sites in the text.                                                        |
 | **Archaisms**          | Outmoded word or phrase.                                                                                         |
