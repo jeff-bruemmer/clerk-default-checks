@@ -44,4 +44,11 @@
   {:avoid "subsequent to" :prefer "before, after, as"}
   {:avoid "following on" :prefer "before, after, as"}
   {:avoid "at the same time as" :prefer "before, after, as"}
-  {:avoid "simultaneously with" :prefer "before, after, as"}]}
+  {:avoid "simultaneously with" :prefer "before, after, as"}
+  {:avoid "in order to" :prefer "to"}
+  {:avoid "at this point in time" :prefer "now"}
+  {:avoid "until such time as" :prefer "until"}
+  {:avoid "in the absence of" :prefer "without"}
+  {:avoid "with the exception of" :prefer "except"}
+  {:avoid "take into account" :prefer "consider"}
+  {:avoid "take into consideration" :prefer "consider"}]}

@@ -1,0 +1,18 @@
+{:message "Vague attribution"
+ :name "weasel-words"
+ :kind "existence"
+ :explanation "Vague phrases that avoid commitment and precision."
+ :specimens
+ ["some people say"
+  "it has been said"
+  "studies show"
+  "experts believe"
+  "many believe"
+  "it is widely known"
+  "common sense dictates"
+  "conventional wisdom"
+  "most people think"
+  "everyone knows"
+  "some have argued"
+  "critics say"
+  "supporters claim"]}

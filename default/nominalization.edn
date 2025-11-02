@@ -1,0 +1,29 @@
+{:message "Prefer the verb"
+ :name "nominalization"
+ :kind "recommender"
+ :explanation "Convert weak noun phrases back to strong verbs."
+ :recommendations
+ [{:avoid "make a decision", :prefer "decide"}
+  {:avoid "have a discussion", :prefer "discuss"}
+  {:avoid "provide assistance", :prefer "assist"}
+  {:avoid "give consideration to", :prefer "consider"}
+  {:avoid "make an assumption", :prefer "assume"}
+  {:avoid "reach a conclusion", :prefer "conclude"}
+  {:avoid "make a suggestion", :prefer "suggest"}
+  {:avoid "offer a recommendation", :prefer "recommend"}
+  {:avoid "give an explanation", :prefer "explain"}
+  {:avoid "make a determination", :prefer "determine"}
+  {:avoid "make an observation", :prefer "observe"}
+  {:avoid "make a payment", :prefer "pay"}
+  {:avoid "have an expectation", :prefer "expect"}
+  {:avoid "make an improvement", :prefer "improve"}
+  {:avoid "give approval", :prefer "approve"}
+  {:avoid "make a contribution", :prefer "contribute"}
+  {:avoid "provide clarification", :prefer "clarify"}
+  {:avoid "make a distinction", :prefer "distinguish"}
+  {:avoid "give authorization", :prefer "authorize"}
+  {:avoid "reach an agreement", :prefer "agree"}
+  {:avoid "make an argument", :prefer "argue"}
+  {:avoid "make a comparison", :prefer "compare"}
+  {:avoid "give recognition", :prefer "recognize"}
+  {:avoid "make an adjustment", :prefer "adjust"}]}
