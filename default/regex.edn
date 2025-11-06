@@ -1,7 +1,7 @@
 {:name "regex"
  :kind "regex"
  :explanation "Raw regular expressions."
- :message "Checks based on regular expressions"
+ :message "Checks based on regular expressions."
  :expressions
  [
   {:re "(##+.*\\.(\\s)*(?!.))" :message "Headings shouldn't end with period."}
